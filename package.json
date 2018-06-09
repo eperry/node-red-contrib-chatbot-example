@@ -1,0 +1,19 @@
+{
+  "name": "redbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-red": "^0.18.6",
+    "node-red-contrib-chatbot": "^0.12.6",
+    "node-red-contrib-ecolect": "^1.0.4",
+    "node-red-contrib-github": "^0.1.5",
+    "node-red-contrib-grok" :  "^0.0.2",
+    "node-red-contrib-chatbot-slacknodes":"^0.1.1"
+  }
+}
